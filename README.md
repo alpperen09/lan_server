@@ -14,6 +14,12 @@ normal user will use "http:/[ip]/lan server"<br/>
 
 admin will use "[ip]/lan server/admin"<br/>
 
+if you don't want to use this you can use "python -m http.server" (same thing)<br/>
+
+# tree view
+![Image](https://github.com/user-attachments/assets/2635135d-5de5-483e-b47b-b25685d332f9)<br/>
+
+
 # admin example screenshot💀
 
 ![Image](https://github.com/user-attachments/assets/e29d32b9-e8d8-4ae7-b36a-64e24b11c484)<br/>
